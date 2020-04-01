@@ -1,0 +1,14 @@
+.input {
+	width: 800px;
+	height: 250px;
+	margin: auto;
+}
+.js-form {
+	display: flex;
+	justify-content: center;
+	padding-top: 200px;
+}
+.content {
+	display: flex;
+	justify-content: center;
+}
